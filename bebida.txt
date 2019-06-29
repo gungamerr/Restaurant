@@ -1,0 +1,1 @@
+[{"tipoDeBebida":"Cerveza","tamanioML":500,"idProducto":16,"precioProducto":120,"nombreProducto":"Honey"},{"tipoDeBebida":"Cerveza","tamanioML":500,"idProducto":18,"precioProducto":120,"nombreProducto":"IPA"}]
